@@ -99,17 +99,6 @@ cd trade-stars-chamados
 live-server .
 ```
 
----
-
-## 📸 Capturas de Tela
-
-> Adicione imagens demonstrando:
-> - Tela de abertura de chamados
-> - Dashboard com gráficos
-> - Seção de avisos
-> - Visualização de um chamado com anexos e chat
-
----
 
 ## ✨ Melhorias Futuras
 
@@ -119,18 +108,4 @@ live-server .
 - [ ] Comentários em linha nos chamados
 - [ ] Controle de SLA por departamento
 
----
-
-## 🙋‍♀️ Desenvolvido por
-
-**Juliana**  
-TI & Suporte — Trade Stars  
-📧 [email@email.com] | 🌐 [linkedin.com/in/seuusuario]
-
----
-
-## 📄 Licença
-
-Este projeto é de uso interno da Trade Stars.  
-Distribuição ou comercialização não autorizada é proibida.
 
