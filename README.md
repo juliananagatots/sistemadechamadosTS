@@ -93,16 +93,5 @@ const supabase = createClient('https://xxxxx.supabase.co', 'public-anon-key');
 - ✅ Dashboard com gráficos em tempo real  
 - ⏳ Integração com envio de notificações por e-mail (em desenvolvimento)
 
----
 
-## 📸 Capturas de Tela
-
-*Inclua imagens do sistema em funcionamento aqui para fins de demonstração.*
-
----
-
-## 👩‍💻 Desenvolvido por
-
-Juliana - TI & Suporte @ Trade Stars  
-[LinkedIn | GitHub | Portfólio] (opcional)
 
